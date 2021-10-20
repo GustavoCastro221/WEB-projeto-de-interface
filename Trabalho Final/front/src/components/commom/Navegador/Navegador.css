@@ -1,0 +1,26 @@
+.navegador{
+    display: flex;
+    background-color: aqua;
+}
+.link-nav{
+    color: black;
+    padding: 10px;
+    margin: left;
+
+}
+
+.active{
+    background-color: rgb(0, 230, 230)
+}
+
+
+.nome-usuario-logado{
+    margin: left;
+    padding: 10px;
+    background-color:bisque;
+}
+
+.logo{
+    margin-right: auto;
+    padding: 10px;
+}
