@@ -3,10 +3,11 @@
 
 O objetivo do projeto foi criar uma Rede Social em que os usuários podem fazer postagens, comentários, além de poder curtir tais itens.
 
-Principais funcionalidades;
 
-<h3>Criação de conta </h3>
+
+<h3> Principais funcionalidades; </h3>
 <ul>
+<li>Criação de conta</li>
 <li>Login/Logoff</li>
 <li>Fazer postagem</li>
 <li>Comentar uma postagem</li>
